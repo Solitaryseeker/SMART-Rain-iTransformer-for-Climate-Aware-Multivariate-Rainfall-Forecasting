@@ -27,13 +27,16 @@ The framework integrates:
 * Spatial and temporal feature engineering
 * Attention-based forecasting using iTransformer
 
-## 📊 Results
+##  Results
 
-The iTransformer achieved the best forecasting performance:
+| Model               | RMSE   | MAE    | R² Score |
+| ------------------- | ------ | ------ | -------- |
+| LSTM                | 0.0611 | 0.0252 | 0.4574   |
+| Transformer Encoder | 0.0924 | 0.0675 | 0.7251   |
+| iTransformer        | 0.0901 | 0.0635 | 0.7619   |
 
-* R² Score: 0.7619
-* RMSE: 0.0901
-* MAE: 0.0635
+The iTransformer achieved the best forecasting performance
+
 
 Results demonstrate that Transformer-based architectures outperform traditional recurrent models for long-range rainfall forecasting tasks.
 
@@ -67,10 +70,22 @@ This work evaluates the effectiveness of Transformer-based architectures for rai
 * Hybrid Transformer architectures
 * Multi-horizon forecasting
 
-## 👨‍💻 Author
+## 👤 Author
 
-Your Name
+**Rohit Sahu**  
+Machine Learning & NLP Enthusiast  
+
+📧 Email: quantumsolitaryseeker@gmail.com  
+
+🔗 LinkedIn: https://www.linkedin.com/in/rohit-sahu-7142742a7/
+
+🐙 GitHub: https://github.com/Solitaryseeker
+
+---
+
 
 ## 📜 License
 
 This project is intended for research and academic purposes.
+
+⭐ If you found this project helpful, consider giving it a star!
