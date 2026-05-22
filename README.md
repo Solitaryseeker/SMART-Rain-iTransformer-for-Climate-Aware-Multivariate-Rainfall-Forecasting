@@ -36,6 +36,7 @@ The framework integrates:
 | iTransformer        | 0.0901 | 0.0635 | 0.7619   |
 
 The iTransformer achieved the best forecasting performance
+![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/Actual_vs_Predicted.png)
 
 
 Results demonstrate that Transformer-based architectures outperform traditional recurrent models for long-range rainfall forecasting tasks.
