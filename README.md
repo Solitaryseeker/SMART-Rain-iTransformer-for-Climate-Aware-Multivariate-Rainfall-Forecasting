@@ -59,7 +59,7 @@ Results demonstrate that Transformer-based architectures outperform traditional 
 
 ## 📖 Paper
 
-**SMART-Rain: iTransformer for Climate-Aware Multivariate Rainfall Forecasting**
+![**SMART-Rain: iTransformer for Climate-Aware Multivariate Rainfall Forecasting**](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/Paper/eSmarTA-2026_paper_267.pdf)
 
 This work evaluates the effectiveness of Transformer-based architectures for rainfall prediction and highlights the capability of iTransformer in modeling long-range temporal dependencies and multivariate interactions.
 
