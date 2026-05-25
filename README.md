@@ -41,18 +41,10 @@ The iTransformer achieved the best forecasting performance
 
 Results demonstrate that Transformer-based architectures outperform traditional recurrent models for long-range rainfall forecasting tasks.
 
-## 🛠️ Technologies Used
-
-* Python
-* PyTorch
-* NumPy
-* Pandas
-* Scikit-learn
-* Optuna
-* Matplotlib
 
 ## 📂 Dataset
 
+ [Dataset](https://data.humdata.org/dataset/yem-rainfall-subnational#)
 * CHIRPS rainfall dataset
 * Period: 1982–2025
 * Subnational rainfall observations (Yemen Level-2 regions)
