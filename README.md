@@ -2,7 +2,7 @@
 
 SMART-Rain is a deep learning framework for multivariate rainfall forecasting using long-term climate data and Transformer-based architectures. The project focuses on improving rainfall prediction accuracy through spatio-temporal feature engineering and advanced sequence learning models.
 
-## 📌 Overview
+##  Overview
 
 Rainfall forecasting is essential for climate monitoring, agriculture, water resource management, and disaster mitigation. This project uses CHIRPS rainfall data (1982–2025) and compares multiple deep learning architectures including:
 
@@ -18,7 +18,7 @@ The framework integrates:
 * Spatial embeddings (PCODE)
 * Log transformation for skewed rainfall distributions
 
-## 🚀 Key Features
+##  Key Features
 
 * Long-term multivariate rainfall forecasting
 * Climate-aware deep learning framework
