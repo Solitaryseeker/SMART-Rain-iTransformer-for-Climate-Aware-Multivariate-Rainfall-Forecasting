@@ -29,13 +29,14 @@ The framework integrates:
 
 ##  Results
 
-Model | RMSE ↓ | MAE ↓ | R² ↑
-LSTM | 0.0976 | 0.0692 | 0.7262
-Transformer Encoder (with Positional Encoding)| 0.0897 | 0.0657 | 0.7409
-iTransformer | 0.0885 | 0.0629 | 0.7703
+Results
+Model	RMSE	MAE	R²
+LSTM	0.0976	0.0692	0.7262
+Transformer Encoder	0.0897	0.0657	0.7409
+iTransformer	0.0885	0.0629	0.7703
+Best Model
 
-
-The iTransformer achieved the best forecasting performance
+The iTransformer achieved the best performance, demonstrating strong capability in modeling long-range temporal dependencies and multivariate rainfall interactions.
 ![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/Actual_vs_Predicted.png)
 
 
