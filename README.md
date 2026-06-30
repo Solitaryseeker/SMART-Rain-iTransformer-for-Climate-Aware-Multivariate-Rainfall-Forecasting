@@ -30,7 +30,7 @@ The framework integrates:
 * Attention-based forecasting using iTransformer
   
 ## Data Preprocessing
-![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/smar.pdf)
+![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/smar_.jpg)
 
 ## Results
 
@@ -42,7 +42,7 @@ The framework integrates:
 
 ### Best Model
 The **iTransformer** achieved the best performance, demonstrating strong capability in modeling long-range tempora
-![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/Actual_vs_Predicted.pdf)
+![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/Actual_vs_Predicted_.jpg)
 
 ## 📂 Dataset
 
