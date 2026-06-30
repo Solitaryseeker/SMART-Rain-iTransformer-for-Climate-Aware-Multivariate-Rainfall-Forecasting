@@ -29,11 +29,11 @@ The framework integrates:
 
 ##  Results
 
-| Model               | RMSE   | MAE    | R² Score |
-| ------------------- | ------ | ------ | -------- |
-| LSTM                | 0.0611 | 0.0252 | 0.4574   |
-| Transformer Encoder | 0.0924 | 0.0675 | 0.7251   |
-| iTransformer        | 0.0901 | 0.0635 | 0.7619   |
+Model | RMSE ↓ | MAE ↓ | R² ↑
+LSTM | 0.0976 | 0.0692 | 0.7262
+Transformer Encoder (with Positional Encoding)| 0.0897 | 0.0657 | 0.7409
+iTransformer | 0.0885 | 0.0629 | 0.7703
+
 
 The iTransformer achieved the best forecasting performance
 ![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/Actual_vs_Predicted.png)
@@ -44,7 +44,7 @@ Results demonstrate that Transformer-based architectures outperform traditional 
 
 ## 📂 Dataset
 
- [Yemen Rainfall Dataset](https://data.humdata.org/dataset/yem-rainfall-subnational#)
+ [Yemen Rainfall Dataset](https://www.kaggle.com/datasets/solitaryseeker/yemen-rainnfall)
 * CHIRPS rainfall dataset
 * Period: 1982–2025
 * Subnational rainfall observations (Yemen Level-2 regions)
