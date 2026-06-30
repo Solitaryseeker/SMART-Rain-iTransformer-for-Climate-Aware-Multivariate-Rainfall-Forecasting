@@ -44,9 +44,6 @@ The framework integrates:
 The **iTransformer** achieved the best performance, demonstrating strong capability in modeling long-range tempora
 ![Alt text](https://github.com/Solitaryseeker/SMART-Rain-iTransformer-for-Climate-Aware-Multivariate-Rainfall-Forecasting/blob/main/pictures/Actual_vs_Predicted.pdf)
 
-
-
-
 ## 📂 Dataset
 
  [Yemen Rainfall Dataset](https://www.kaggle.com/datasets/solitaryseeker/yemen-rainnfall)
