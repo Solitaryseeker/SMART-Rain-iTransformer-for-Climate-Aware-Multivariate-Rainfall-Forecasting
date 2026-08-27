@@ -56,11 +56,11 @@ The **iTransformer** achieved the best performance, demonstrating strong capabil
 
 ## Research Paper
 
-[SMART-Rain: A Climate-Aware Deep Learning Framework for Multivariate Rainfall Forecasting in Yemen]()
+[SMART-Rain: A Climate-Aware Deep Learning Framework for Multivariate Rainfall Forecasting in Yemen](https://ieeexplore.ieee.org/document/11652187/authors#authors)
 
 
 
-
+## Author 
 
 📧 Email: quantumsolitaryseeker@gmail.com  
 
